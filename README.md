@@ -20,5 +20,4 @@
 
 <hr>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hola-sebas&show_icons=true&theme=radical" alt="hola-sebas" /></p>
-<hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hola-sebas&layout=compact&theme=radical" alt="hola-sebas" /></p>
