@@ -5,13 +5,13 @@
   <img src="https://komarev.com/ghpvc/?username=hola-sebas" alt="hola-sebas" />
 </p>
 
-- 🔭 I’m currently working on [Menhera chan](https://github.com/hola-sebas/bot-menhera-mongodb)
+- 🔭 I’m currently working on [Bot Menhera chan](https://menherachan.herokuapp.com)
 
-- 🌱 I’m currently learning **Exress, css, javascript**
+- 🌱 I’m currently learning **Java, C++**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hola-sebas](https://github.com/hola-sebas)
 
-- 💬 Ask me about **nodejs, java**
+- 💬 Ask me about **nodejs, mongodb, javascript, html**
 
 - 📫 How to reach me **danielpalma2003@hotmail.com**
 
