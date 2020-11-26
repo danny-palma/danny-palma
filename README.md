@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=hola-sebas" alt="hola-sebas" />
 </p>
 
-- 🔭 I’m currently working on [Bot Menhera chan](https://menherachan.herokuapp.com)
+- 🔭 I’m currently working on [electron system](https://github.com/hola-sebas/electron-system)
 
 - 🌱 I’m currently learning **Java, C++**
 
