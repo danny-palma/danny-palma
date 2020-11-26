@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java, C++**
 
-- 👨‍💻 All of my projects are available at [https://github.com/hola-sebas](https://github.com/hola-sebas)
+- 👨‍💻 All of my projects are available at [my profile](https://github.com/hola-sebas)
 
 - 💬 Ask me about **nodejs, mongodb, javascript, html, css, typescript, electron, express**
 
