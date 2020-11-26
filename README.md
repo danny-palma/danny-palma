@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/hola-sebas](https://github.com/hola-sebas)
 
-- 💬 Ask me about **nodejs, mongodb, javascript, html**
+- 💬 Ask me about **nodejs, mongodb, javascript, html, css, typescript, electron, express**
 
 - 📫 How to reach me **danielpalma2003@hotmail.com**
 
