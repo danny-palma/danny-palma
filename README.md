@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C#, Flutter**
 
-- 💬 Ask me about **Node.JS, Typescript, Mongo DB, HTML, Css**
+- 💬 Ask me about **Node.JS, Typescript, Mongo DB, HTML, Css, React, MySQL**
 
 - 📫 How to reach me **dannypalmadev@gmail.com || danielpalma2003@hotmail.com**
 
