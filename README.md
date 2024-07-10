@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Palma</h1>
-<h3 align="center">Back-end developer from Colombia</h3>
+<h3 align="center">Full-Stack developer from Colombia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danny-palma&label=Profile%20views&color=6a9d26&style=flat" alt="danny-palma" /> </p>
 
