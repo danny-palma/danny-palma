@@ -77,5 +77,6 @@
   </table>
 </p>
 
-[![My Stats](https://github-readme-stats.vercel.app/api?username=danny-palma&show_icons=true&theme=monokai)](https://github.com/danny-palma)
+[![My Stats](https://github-readme-stats.vercel.app/api?username=danny-palma&show_icons=true&theme=monokai)](https://github.com/danny-palma) 
+ 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danny-palma&layout=compact&langs_count=8&hide=css&theme=monokai)
