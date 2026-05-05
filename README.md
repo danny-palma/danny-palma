@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danny-palma&label=Profile%20views&color=6a9d26&style=flat" alt="danny-palma" /> </p>
 
-- 🌱 I’m currently learning **C#, Flutter**
+- 🌱 I’m currently learning **C#**
 
-- 💬 Ask me about **Node.JS, Typescript, Mongo DB, HTML, Css, React, MySQL, Java**
+- 💬 Ask me about **Node.JS, Typescript, Mongo DB, HTML, Css, React, MySQL, Java, Flutter**
 
 - 📫 How to reach me **dannypalmadev@gmail.com || danielpalma2003@hotmail.com**
 
